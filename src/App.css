@@ -1,0 +1,28 @@
+.WelcomeCss {
+    display: flex;
+   
+    justify-content: center;
+
+}
+
+.cssCard {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-block: 3rem;
+    align-items: center;
+}
+
+
+    
+
+
+
+
+
+
+img {
+
+    width: 250px;
+}

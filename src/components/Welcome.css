@@ -1,0 +1,13 @@
+.textWelcome {
+    border: 2px solid #fafafa;
+    background-color: #626262;
+    padding:10px ;
+    border-style: outset solid;
+   
+}
+.enterName {
+    border: 2px solid #fafafa;
+    background-color: #626262;
+    padding :10px;
+    border-style: outset solid;
+}
